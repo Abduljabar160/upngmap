@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "UnpGuideMap",
+    "slug": "UnpGuideMap",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
